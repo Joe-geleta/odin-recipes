@@ -1,0 +1,20 @@
+* {
+    align: center;
+    background-color: antiquewhite;
+}
+
+h1 {
+    background-color: rgb(28, 82, 182);
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+    color: hsl(39, 96%, 51%);
+}
+
+ul.foods {
+    background-color: orange;
+    text-align: center;
+    font-size: 28px;
+    font-weight: bold;
+    color: rgb(76, 127, 221)
+}
